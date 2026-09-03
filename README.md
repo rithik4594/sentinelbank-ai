@@ -97,7 +97,7 @@ Because the customer types their own valid UPI PIN or Netbanking password, **tra
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/IdhayaSriHarini-2909/sentinelbank-ai.git
+git clone https://github.com/rithik4594/sentinelbank-ai.git
 cd sentinelbank-ai
 ```
 
