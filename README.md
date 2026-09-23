@@ -140,14 +140,4 @@ npm run build
 
 ---
 
-## 🏆 Smart India Hackathon (SIH) 2026 Submission
 
-- **Problem Statement ID:** PS-01
-- **Problem Statement Title:** Protecting Vulnerable Customers from Digital Financial Fraud
-- **Theme:** Smart Banking / Fintech / Cybersecurity
-- **Target Beneficiaries:** Senior citizens, pensioners, first-time digital users, and rural banking customers.
-
----
-
-## 📄 License
-This project is developed as an educational prototype for the **Smart India Hackathon (SIH)**. All simulated banking data and persona profiles are mock representations.
